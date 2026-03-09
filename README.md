@@ -59,6 +59,8 @@ endmodule
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp7](https://github.com/user-attachments/assets/4fa16774-3612-4446-b95a-f96254ef2725)
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot (112)](https://github.com/user-attachments/assets/f4e383a1-bffa-4271-bc5a-fc38ab026ed0)
+<img width="1907" height="1124" alt="jk flipflop1 - Copy" src="https://github.com/user-attachments/assets/5673c543-9b88-42a9-b83c-ab5dcb3d95df" />
+
+
 **RESULTS**
 Thus the JK flipflop using verilog and validating their functionality using their functional tables implemented.
